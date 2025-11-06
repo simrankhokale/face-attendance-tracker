@@ -28,7 +28,8 @@ This project can be integrated into classrooms, offices, or internship portfolio
 ## Project Preview
 | Face Detection | Attendance Log |
 |----------------|----------------|
-| | ![Face Detection](https://github.com/user-attachments/assets/simran_20251106_182522.gif) | ![Attendance Log](https://github.com/user-attachments/assets/simran_20251106_182522.jpg) |
+| ![Face Detection](https://github.com/simrankhokale/face-attendance-tracker/blob/main/simran_20251106_182522.jpg?raw=true) | ![Attendance Log](https://github.com/simrankhokale/face-attendance-tracker/blob/main/attendance_log.csv?raw=true) |
+
 
 
 ## Files Generated

@@ -45,3 +45,7 @@ This project can be integrated into classrooms, offices, or internship portfolio
 1. **Install dependencies:**
    ```bash
    pip install opencv-python
+2.Run the project in your terminal or VS Code:
+```bash
+python face_snap_attendance.py
+

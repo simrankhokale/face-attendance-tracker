@@ -1,5 +1,4 @@
 # face-attendance-tracker
-# 🎯 Face Snapshot Attendance System  
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -9,7 +8,7 @@ This project can be integrated into classrooms, offices, or internship portfolio
 
 ---
 
-## 🧠 Features
+## Features
 - Real-time face detection using **OpenCV Haar Cascade**  
 - Automatically captures snapshots with timestamps  
 - Attendance is logged in a **CSV file** (`attendance_log.csv`)  
@@ -18,7 +17,7 @@ This project can be integrated into classrooms, offices, or internship portfolio
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python 3.11+**  
 - **OpenCV** – for face detection  
 - **CSV & Datetime** – for logging attendance  
@@ -26,7 +25,7 @@ This project can be integrated into classrooms, offices, or internship portfolio
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 | Face Detection | Attendance Log |
 |----------------|----------------|
 | ![Face Detection](https://github.com/user-attachments/assets/example_face_detection.gif) | ![Attendance Log](https://github.com/user-attachments/assets/example_csv_preview.png) |
@@ -35,7 +34,7 @@ This project can be integrated into classrooms, offices, or internship portfolio
 
 ---
 
-## 📂 Files Generated
+## Files Generated
 | File | Description |
 |------|-------------|
 | `face_snap_attendance.py` | Main Python file |
@@ -44,7 +43,7 @@ This project can be integrated into classrooms, offices, or internship portfolio
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. **Install dependencies:**
    ```bash
    pip install opencv-python

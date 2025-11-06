@@ -30,9 +30,6 @@ This project can be integrated into classrooms, offices, or internship portfolio
 |----------------|----------------|
 | ![Face Detection](https://github.com/user-attachments/assets/example_face_detection.gif) | ![Attendance Log](https://github.com/user-attachments/assets/example_csv_preview.png) |
 
-> *(You can replace these images after uploading your demo GIF or screenshots to GitHub.)*
-
----
 
 ## Files Generated
 | File | Description |
